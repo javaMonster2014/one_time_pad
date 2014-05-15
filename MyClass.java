@@ -146,11 +146,9 @@ public class MyClass {
 		    
                     //output and formatting:
 		    //System.out.println("Message to translate: "+ "\n" + message_to_translate.toString());
-		   // System.out.println("\n" + "Enciphered message:"+ "\n" + translated_message);
-		   // System.out.println("\n" + "Encipher key:"+ "\n" + key);
+		    System.out.println("\n" + "Enciphered message:"+ "\n" + translated_message);
+		    System.out.println("\n" + "Encipher key:"+ "\n" + key);
                     
-                    System.out.printf("%20 s\n", translated_message);
-
                     
                     
 		    break;
